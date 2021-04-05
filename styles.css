@@ -1,0 +1,155 @@
+/*4. Color Palette
+#008080 - Teal
+#b3b3b3 - Pink Swan
+#438797 - Shade of Cyan
+#E2F3F9 - Alice Blue
+#59A9B5 - Fountain Blue
+*/
+
+/* Font Family
+Acme
+caveat
+Oswald
+*/
+
+/* Global styles 
+------------------------------------*/
+
+/*#E2F3F9*/
+html, body {
+    background: linear-gradient(to right,#b8a9a9  23%, white 20%);
+    margin: 0;
+    height: 140%;
+    
+  }
+
+  .profile-img{
+    /*width=300px;*/
+    border-radius:40%;
+    /*float: left;*/
+    /*margin-left:25px;*/
+    border-style: solid;
+    margin-left: 13%;
+    margin-top: 35px;;
+  }
+
+  .Lside{
+    width: 22.5%;
+    text-align: start;
+    padding-left: 2.5%;
+  }
+
+
+  /*padding: 20px;*/
+  a{
+    text-decoration: none;
+    font-size: 10px;
+    color: #008080;
+  }
+
+  .Lside > h2{
+    margin-left: 0%;
+    width: 90%;
+  }
+
+  .Lside > h4{
+   padding-left: 15%;
+   width: 90%;
+  }
+
+  .social{
+    float: left;
+  }
+
+
+.Rside{
+  font-size: 20px;
+  margin-left: 30%;
+  margin-top: -1060px;
+}
+
+.Rside > ul{
+  width: 90%;
+}
+
+.Rside > p{
+  width: 90%;
+}
+
+/*background: linear-gradient(to bottom, grey 23%, white 20%);*/
+/* position: fixed;
+  top: -757px;
+  left: -10%;
+  width: 110%;
+  height: 100%;*/
+.Introduction{
+  position: static;
+  margin-top: -910px;
+  margin-left: -10%;
+  background: #32353b;
+  padding: 25px;
+  padding-top: 100px;
+  color: white;
+}
+
+  h1{
+    font-size: 40px;
+    margin: 0;
+  }
+  
+  
+  h2{
+    font-size: 20px;
+    margin-left: 10%;
+    text-align: left;
+  }
+
+  .Rside > h2{
+    margin-left: 0%;
+    width: 90%;
+  }
+  
+  h3{
+    font-size: 20px;
+    color: #009cff;
+  }
+  
+  h4{
+    font-size: 13px;
+    font-weight: lighter;
+  }
+
+  p{
+    font-size: 15px;
+  }
+
+  li{
+    font-size: 15px;
+  }
+
+
+
+
+
+  
+  html{
+    box-sizing: border-box;
+  }
+  *, *:before, *:after{
+    box-sizing: inherit;
+  }
+  
+
+
+  
+
+
+  
+  a:hover{
+    background-color: white;
+  }
+  
+  
+
+  
+  
