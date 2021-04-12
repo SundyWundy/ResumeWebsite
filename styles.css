@@ -1,5 +1,5 @@
 html, body {
-  background: linear-gradient(to right,#b8a9a9  23%, white 20%);
+  background: linear-gradient(to right,#b8a9a9  25%, white 20%);
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -13,9 +13,10 @@ html, body {
 }
 
 .Lside{
-  width: 22.5%;
+  width: 20%;
   text-align: start;
   padding-left: 2.5%;
+  word-wrap: break-word;
 }
 
 a{
@@ -41,7 +42,7 @@ a{
 .Rside{
 font-size: 20px;
 margin-left: 30%;
-margin-top: -1050px;
+margin-top: -1200px;
 }
 
 .Rside > ul{
@@ -53,15 +54,15 @@ width: 90%;
 }
 
 .Introduction{
-margin-left: -10%;
+margin-left: -7.2%;
 background: #32353b;
-padding: 25px;
-padding-top: 300px;
+padding: 50px;
+padding-top: 500px;
 color: white;
 }
 
 h1{
-  font-size: 40px;
+  font-size: 50px;
   margin: 0;
 }
 
