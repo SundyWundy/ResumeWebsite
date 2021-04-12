@@ -1,107 +1,103 @@
 html, body {
-    background: linear-gradient(to right,#b8a9a9  23%, white 20%);
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
+  background: linear-gradient(to right,#b8a9a9  23%, white 20%);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
-  .profile-img{
-    border-radius:40%;
-    border-style: solid;
-    margin-left: 20%;
-    margin-top: 15%;
-  }
+.profile-img{
+  border-radius:40%;
+  border-style: solid;
+  margin-left: 20%;
+  margin-top: 15%;
+}
 
-  .Lside{
-    width: 22.5%;
-    text-align: start;
-    padding-left: 2.5%;
-  }
+.Lside{
+  width: 22.5%;
+  text-align: start;
+  padding-left: 2.5%;
+}
 
-  a{
-    text-decoration: none;
-    font-size: 10px;
-    color: #008080;
-  }
+a{
+  text-decoration: none;
+  font-size: 10px;
+  color: #008080;
+}
 
-  .Lside > h2{
-    margin-left: 0%;
-    width: 90%;
-  }
+.Lside > h2{
+  margin-left: 0%;
+  width: 90%;
+}
 
-  .Lside > h4{
-   padding-left: 15%;
-   width: 90%;
-  }
+.Lside > h4{
+ padding-left: 15%;
+ width: 90%;
+}
 
-  .social{
-    float: left;
-  }
+.social{
+  float: left;
+}
 
 .Rside{
-  font-size: 20px;
-  margin-left: 30%;
-  
+font-size: 20px;
+margin-left: 30%;
+margin-top: -1050px;
 }
 
 .Rside > ul{
-  width: 90%;
+width: 90%;
 }
 
 .Rside > p{
+width: 90%;
+}
+
+/* position: static;
+margin-top: -1000px;
+margin-left: -10%;*/
+.Introduction{
+margin-left: -10%;
+background: #32353b;
+padding: 25px;
+padding-top: 220px;
+color: white;
+}
+
+h1{
+  font-size: 40px;
+  margin: 0;
+}
+
+
+h2{
+  font-size: 20px;
+  margin-left: 10%;
+  text-align: left;
+}
+
+.Rside > h2{
+  margin-left: 0%;
   width: 90%;
 }
 
-.Introduction{
-  position: static;
-  margin-top: -1000px;
-  margin-left: -10%;
-  background: #32353b;
-  padding: 25px;
-  padding-top: 220px;
-  color: white;
+h3{
+  font-size: 20px;
+  color: #009cff;
 }
 
-  h1{
-    font-size: 40px;
-    margin: 0;
-  }
-  
-  
-  h2{
-    font-size: 20px;
-    margin-left: 10%;
-    text-align: left;
-  }
+h4{
+  font-size: 13px;
+  font-weight: lighter;
+}
 
-  .Rside > h2{
-    margin-left: 0%;
-    width: 90%;
-  }
-  
-  h3{
-    font-size: 20px;
-    color: #009cff;
-  }
-  
-  h4{
-    font-size: 13px;
-    font-weight: lighter;
-  }
+p{
+  font-size: 15px;
+}
 
-  p{
-    font-size: 15px;
-  }
+li{
+  font-size: 15px;
+}
 
-  li{
-    font-size: 15px;
-  }
-
-  a:hover{
-    background-color: white;
-  }
-  
-  
-
-  
-  
+a:hover{
+  background-color: white;
+}
