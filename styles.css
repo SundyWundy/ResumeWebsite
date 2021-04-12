@@ -1,5 +1,5 @@
 html, body {
-  background: linear-gradient(to right,#b8a9a9  25%, white 20%);
+  background: linear-gradient(to right,#b8a9a9  25%, white 25%);
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -59,6 +59,7 @@ background: #32353b;
 padding: 50px;
 padding-top: 500px;
 color: white;
+word-wrap: break-word;
 }
 
 h1{
