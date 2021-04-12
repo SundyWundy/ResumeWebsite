@@ -8,8 +8,8 @@ html, body {
   .profile-img{
     border-radius:40%;
     border-style: solid;
-    margin-left: 13%;
-    margin-top: 35px;;
+    margin-left: 20%;
+    margin-top: 15%;
   }
 
   .Lside{
@@ -41,6 +41,7 @@ html, body {
 .Rside{
   font-size: 20px;
   margin-left: 30%;
+  
 }
 
 .Rside > ul{
@@ -53,11 +54,11 @@ html, body {
 
 .Introduction{
   position: static;
-  margin-top: -910px;
+  margin-top: -1000px;
   margin-left: -10%;
   background: #32353b;
   padding: 25px;
-  padding-top: 190px;
+  padding-top: 220px;
   color: white;
 }
 
